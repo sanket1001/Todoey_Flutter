@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e63ef528-b0a1-4cde-9a13-2bce23d811fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clima/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clima/ios/Flutter/Flutter.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clima/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clima/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clima/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clima/scratch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/lib/screens/loading_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/lib/screens/loading_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/lib/services/location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/lib/services/location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Clima/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen0.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen0.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation-Flutter-Demo/lib/screen2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation-Flutter-Demo/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation-Flutter-Demo/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Navigation-Flutter-Demo" />
+  </component>
+  <component name="ProjectId" id="1ZzC15vAvhwRccdUnHyy8ovHSQj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e63ef528-b0a1-4cde-9a13-2bce23d811fd" name="Default Changelist" comment="" />
+      <created>1585832317390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585832317390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
